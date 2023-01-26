@@ -1,6 +1,6 @@
 import userLife from './task1';
 
-import { matchers } from './task2';
+import matchers from './task2';
 
 userLife(90);
 

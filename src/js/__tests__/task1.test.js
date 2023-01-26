@@ -14,4 +14,3 @@ test('userLife check', () => {
   const someUser = userLife({ name: 'Маг', health: 90 });
   expect(someUser).toBe('healthy');
 });
-
